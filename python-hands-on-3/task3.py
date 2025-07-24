@@ -18,8 +18,8 @@ Total = money[0] + money[1] + money[2] + money[3] + money[4]
 print(Total)
 
 # Adding 200 to It
-Total += 200
-print(Total)
+money[2] = 1000
+print(money)
   
 #printing in reverse
 
